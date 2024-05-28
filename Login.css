@@ -1,0 +1,16 @@
+body {
+    background-color: #f9f9f9;
+    padding-top: 70px;
+    background-image: url('travel_3.avif');
+    background-size: cover;
+    background-position: center;
+}
+
+.container {
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
